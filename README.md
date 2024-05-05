@@ -28,7 +28,7 @@ I used Excel for analyzing data and PowerBi for visualization.
 
 - Product Development
 
-  Note: Read the Marketing Analysis pdf file for details.
+  Note: Read the Marketing Analysis pdf file for details and Issues (README) for images.
   
 🌟 Conclusion:
 This challange allowed me to analyze survey data and provide actionable insighits for CodeX's marketing strategies.
